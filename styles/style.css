@@ -1,0 +1,21 @@
+.green
+{
+	color: #00cc00;
+}
+
+.red
+{
+	color: red;
+}
+
+.greenInput{
+	border-color: #00cc00;
+}
+
+.redInput{
+	border-color: red;
+}
+
+.comment{
+	font-size: 0.9em;
+}
